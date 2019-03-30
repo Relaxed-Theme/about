@@ -6,7 +6,7 @@ Therefore I’ have used a different color schemes for iTerm and began to tweak 
 
 ## Terminal color scheme
 
-Available for Hyper, iTerm, macOS Terminal, Alacritty, Konsole, PuTTY, Terminator, Termite, Xfce Terminal and Xresources by now.
+Available for Hyper, iTerm, macOS Terminal, Alacritty, Konsole, PuTTY, Terminator, Terminus, Termite, Xfce Terminal and Xresources by now.
 
 Check <https://github.com/Relaxed-Theme/relaxed-terminal-themes> to get it.
 
